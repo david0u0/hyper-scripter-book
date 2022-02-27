@@ -1,0 +1,6 @@
+[book]
+authors = ["why8ther"]
+language = "en"
+multilingual = false
+src = "src"
+title = "hyper-scripter-book"
