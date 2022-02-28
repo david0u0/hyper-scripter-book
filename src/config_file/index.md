@@ -6,3 +6,5 @@
 ```toml
 editor = ['vim'] # 改成任何你喜歡的指令，例如 editor = ['vim', '-u', 'NONE']
 ```
+
+## 近期篩選
