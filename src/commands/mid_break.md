@@ -3,11 +3,11 @@
 
 ```
 (no tag)
-.2(rb)  .1(sh)  my/first/script(sh)
+.2(rb)  .1(sh)  my/first/script(sh)  og/script(sh)
 [#mytag]
-*script/with/tag(sh)
+*mv/script(txt)  script/with/tag(sh)  cp/script(sh)
 [#util]
 util/readme.md(txt)  util/historian(rb)  util/import(rb)  util/collect(rb)
 ```
 
-而基礎教學也剛好超過一半，該去喝杯咖啡犒賞一下自己了！不過先別急著把這些腳本刪掉，下半場，你還要拿它們來做更有趣的事情……
+而基礎教學也剛好超過一半！是時候該休息一下，泡杯咖啡還是啥的。不過先別急著把這些腳本刪掉，下半場，你還要拿它們來做更好玩的事情……

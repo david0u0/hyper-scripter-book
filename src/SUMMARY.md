@@ -1,10 +1,9 @@
 # Summary
 
-[hyper-scripter](intro.md)
+[簡介](intro.md)
 
 - [安裝](installation.md)
 - [初次使用](first_usage.md)
-	+ [補全](completion.md)
 	+ [別名 alias](alias.md)
 - [常用命令教學](commands/index.md)
 	+ [edit](commands/edit.md)
@@ -13,22 +12,24 @@
 	+ [history](commands/history.md)
 	+ [filter](commands/filter.md)
 	+ [tags](commands/tags.md)
-
+- [與 shell 互動](interact_with_shell.md)
+	+ [補全](completion.md)
+	
 # 功能指南
 + [搜尋方式](query/index.md)
-	- [模糊搜尋](query/fuzz.md)
 	- [時序搜尋](query/prev.md)
+	- [模糊搜尋](query/fuzz.md)
 	- [精確搜尋](query/exact.md)
 	- [列表搜尋](query/list_query.md)
 	- [bang!](query/bang.md)
++ [進階標籤](advanced_tag/index.md)
+	- [標籤篩選器](advanced_tag/filter.md)
+	- [edit/mv/cp 中的標籤](advanced_tag/edit_mv_cp.md)
 + [匿名腳本](anonymous.md)
 + [近期篩選](recent_filter.md)
 + [腳本之家](hyper_scripter_home.md)
 + [設定檔](config_file/index.md)
 	- [腳本類型](config_file/script_type.md)
-+ [進階標籤](advanced_tag/index.md)
-	- [標籤篩選器](advanced_tag/filter.md)
-	- [edit/mv/cp 中的標籤](advanced_tag/edit_mv_cp.md)
 	
 # 參照
 + [模糊前綴](fuzz_prefix.md)

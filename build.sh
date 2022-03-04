@@ -8,6 +8,6 @@ if [ "$#" != "1" ]; then
 fi
 
 cd $(dirname $0)
-cp $1/completion/* src/completion -R
+cp $1/completion/* src/code/completion -R
 
 mdbook build
